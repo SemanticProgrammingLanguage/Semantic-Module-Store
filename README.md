@@ -1,3 +1,25 @@
+
+
+
+
+<div align="center">
+  <img
+    width="530"
+    height="715"
+    alt="tree-of-life"
+    src="https://github.com/user-attachments/assets/62539355-3272-435b-95b0-30fc8445a335"
+  />
+
+  <br><br>
+
+  <img
+    width="945"
+    height="185"
+    alt="semantic-wordmark"
+    src="https://github.com/user-attachments/assets/d586735f-6413-4319-86f7-b2e68c124406"
+  />
+</div>
+
 # Semantic Module Store
 
 Central release repository for modules of the **Semantic Programming Language**.
